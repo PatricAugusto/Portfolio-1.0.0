@@ -175,12 +175,12 @@ const ProjectsSection = () => {
     },
     {
       id: 3,
-      title: "Habit Tracker",
-      description: "Painel interativo e visualmente atraente para rastrear seus hábitos diários e metas de longo prazo",
+      title: "Dashboard de Dados Demográficos",
+      description: "Projetado para visualizar dados demográficos fictícios do Brasil, como população total, distribuição regional e por faixa etária.",
       image: todoAppProjectImg, 
-      tags: ["React", "Styled Components", "Chart.js / React Chart.js 2", "Local Storage"],
-      demoLink: "https://habit-tracker-dashboard-omega.vercel.app/",
-      repoLink: "https://github.com/PatricAugusto/Habit-Tracker-Dashboard"
+      tags: ["React", "Styled Components", "Chart.js / React Chart.js 2", "Local Storage API", "Font Awesome"],
+      demoLink: "https://dashboard-interativo-com-graficos.vercel.app/",
+      repoLink: "https://github.com/PatricAugusto/Dashboard-Interativo-com-Graficos"
     }
   ];
 
